@@ -3,7 +3,7 @@
 
 - 🎓 I’m currently a Web Developer Student At **HTL International School Barcelona**
 
-- 🌱 I’m currently learning **Nest.js, Astro and vue.js**
+- 🌱 I’m currently learning **Nest.js,Astro and vue.js**
 
 - 👯 I’m looking to collaborate on **new projects**
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/leith inoubli](https://www.linkedin.com/in/leith-inoubli-b6bba41b5/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leith inoubli" height="30" width="40" /></a>
-<a href="[https://fb.com/leith inoubli](https://www.facebook.com/leith.inoubli.1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leith inoubli" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/leith-inoubli-b6bba41b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leith-inoubli-b6bba41b5/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/leith.inoubli.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/leith.inoubli.1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
