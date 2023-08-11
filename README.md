@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/leith inoubli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leith inoubli" height="30" width="40" /></a>
-<a href="https://fb.com/leith inoubli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leith inoubli" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/leith inoubli](https://www.linkedin.com/in/leith-inoubli-b6bba41b5/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leith inoubli" height="30" width="40" /></a>
+<a href="[https://fb.com/leith inoubli](https://www.facebook.com/leith.inoubli.1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leith inoubli" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
