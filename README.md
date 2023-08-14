@@ -3,7 +3,7 @@
 
 - 🎓 I’m currently a Web Developer Student At **HTL International School Barcelona**
 
-- 🌱 I’m currently learning **Nest.js, vue.js and Ruby**
+- 🌱 I’m currently learning **Nest.js, vue.js, Ruby and Flutter**
 
 - 👯 I’m looking to collaborate on **new projects**
 
