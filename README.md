@@ -3,7 +3,7 @@
 
 - 🎓 I’m currently a Web Developer Student At **HTL International School Barcelona**
 
-- 🌱 I’m currently learning **Rive App**
+- 🌱 I’m currently learning **Flutter and SupaBase**
 
 - 👯 I’m looking to collaborate on **new projects**
 
